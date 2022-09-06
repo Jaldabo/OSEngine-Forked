@@ -1,8 +1,4 @@
-# OSEngine-Definitive
-
-OS Engine but with some changes and fixes that I prefer.
-
-More Noteskins to choose from including:
+Noteskin credits:
 
 Remastered https://gamebanana.com/mods/352786
 
