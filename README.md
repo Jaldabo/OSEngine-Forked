@@ -1,6 +1,6 @@
 # OSEngine-Definitive
 
-OS Engine but with some changes and fixes that I prefer including:
+OS Engine but with some changes and fixes that I prefer.
 
 More Noteskins to choose from including:
 
