@@ -17,16 +17,3 @@ Stepmania-Lite https://gamebanana.com/mods/366621
 Osu! Circles https://gamebanana.com/mods/351061
 
 Waffle https://gamebanana.com/mods/330278
-
-
-Also adds:
-
-- Camera Movement Toggle
-- New Score Text (Like Kade Engine)
-
-And removes:
-
-- Version in menu
-- Credits, Awards, etc. in Main Menu
-- Watermarks
-- Mentions of OS Engine
